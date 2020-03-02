@@ -1,0 +1,13 @@
+1.Global MOD13C1 collection 6:
+  16 days vegetation index product, including NDVI and EVI with 5 km covering between date of 2000049 and 2019161. 
+R script is available for hdf to tif. 
+Source  from: https://search.earthdata.nasa.gov/. Downloaded by wget.
+
+2.MOD11A2 C6 over China: 
+  8 days land surface temperature product with 1 km covering between date of 2000049 and 2019161. 
+Rscript is available to call mrt to mosaic and project hdf to tif with wgs84 projection. 
+Source  from: https://search.earthdata.nasa.gov/. Downloaded by wget.
+
+3.MCD12Q1 land cover data in China:
+   Yearly data  land cover data with 500 m from 2001 year to 2016. Rscript is available to call mrt to mosaic and project hdf to tif with wgs84 projection. 
+ Source  from: https://search.earthdata.nasa.gov/. Downloaded by wget.
